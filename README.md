@@ -6,56 +6,42 @@ I’m a <b>Computer Engineering</b> student at <b>National University of Singapo
 
 ---
 
-## 🏆 Hackathons  
-<ul>
-  <li>
-    <a href="https://github.com/clemenong1/SigmaHealth"><b>SigmaHealth</b></a>  
-    <sub>A health tech solution for personalized health tracking.</sub>
-  </li>
-  <li>
-    <a href="https://github.com/Path-yang/DSTA-Code-Exp-2025"><b>SigmaShield</b></a>  
-    <sub>A security-focused project tackling real-world safety challenges.</sub>
-  </li>
-  <li>
-    <a href="https://github.com/Path-yang/Hackomania_2025"><b>NoFap</b></a>  
-    <sub>A motivational tracking app for personal development.</sub>
-  </li>
-  <li>
-    <a href="https://github.com/Path-yang/Maritime-Hackathon-2025"><b>Ship Vessel Risk Detection Model</b></a>  
-    <sub>AI/ML model for maritime risk detection.</sub>
-  </li>
-</ul>
+## 💡 Hackathons  
+
+[**SigmaHealth**](https://github.com/clemenong1/SigmaHealth)  
+*🏆 Finalist (top 10 of 60+ teams), Best Usage of Data Award, and Best team for Theme 1 (Health and Wellbeing) @NUS Lifehack 2025*  
+An AI-powered, multilingual React Native app that integrates real-time Singapore health data, GPT-based health guidance, and community reporting to create a crowdsourced public health monitoring and education platform. 
+
+[**SigmaShield**](https://github.com/Path-yang/DSTA-Code-Exp-2025)  
+*🏆 Finalist (top 20 of 80+ teams) @DSTA Brainhack-Code EXP 2025*  
+An AI-powered mobile app that helps users detect, understand, and prevent online scams. It offers real-time URL analysis, educational content, scam analytics, and a community forum for sharing experiences and insights. 
+
+[**NoFap**](https://github.com/Path-yang/Hackomania_2025)  
+A modern web app designed to help users stay motivated on their NoFap journey through progress tracking, achievements, and community support. 
+
+[**Ship Vessel Risk Detection Model**](https://github.com/Path-yang/Maritime-Hackathon-2025)  
+*🏆 Top 3 @Maritime Hackathon 2025*  
+A two-stage AI pipeline to predict vessel deficiency severity from Port State Control inspection text. Stage 1 resolves and consolidates multiple annotations into a single severity label per inspection, and Stage 2 fine-tunes a DistilBERT transformer to classify severity and generate predictions for new inspections.
 
 ---
 
 ## 🎓 School Project  
-<ul>
-  <li>
-    <a href="https://github.com/WangZX2001/GymFit"><b>GymFit</b></a>  
-    <sub>A fitness tracking app with recovery monitoring, muscle fatigue modeling, and Firebase integration.</sub>
-  </li>
-</ul>
+
+[**GymFit**](https://github.com/WangZX2001/GymFit)  
+A cross-platform fitness app built with Flutter and Firebase, featuring real-time workout tracking and timers, YouTube video integration, and science-based calorie calculations. It includes social networking, workout history tracking and statistics, advanced muscle recovery monitoring, and personalized workout recommendations.
 
 ---
 
 ## 💼 Internship Projects  
-<ul>
-  <li>
-    <a href="https://oxleypawnshop.com"><b>Oxleypawnshop Website</b></a>  
-    <sub>A responsive, SEO-optimized pawnshop business website.</sub>
-  </li>
-  <li>
-    <b>Goldjewel Website & CMS</b>  
-    <sub>Website and content management system for an internal jewelry business workflow.</sub>
-  </li>
-</ul>
+
+[**Oxleypawnshop Website**](https://oxleypawnshop.com)  
+A responsive, SEO-optimized pawnshop business website.  
+
+**Goldjewel Website & CMS**  
+Website and content management system for an internal jewelry business workflow.  
 
 ---
 
 <h3>📫 Let’s Connect</h3>
 
-<p>
-  <a href="https://www.linkedin.com/in/lee-su-kiat-sean-19211a33b">LinkedIn</a>  
-  •  
-  <a href="mailto:seanleesukiat@gmail.com">Email</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/lee-su-kiat-sean-19211a33b) • [Email](mailto:seanleesukiat@gmail.com)
