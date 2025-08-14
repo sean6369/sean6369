@@ -1,8 +1,10 @@
-<h2 align="center">👋 Hi, I’m Sean</h2>
+<h2 align="center">👋 Hi there, I’m Sean</h2>
 
 <p align="center">
 I’m a <b>Computer Engineering</b> student at <b>National University of Singapore (NUS)</b> passionate about building practical, impactful, and innovative tech solutions.  
 </p>
+
+Here are some of my projects and contributions across hackathons, school, and internships:
 
 ---
 
@@ -35,7 +37,7 @@ A cross-platform fitness app built with Flutter and Firebase, featuring real-tim
 ## 💼 Internship Projects  
 
 [**Oxleypawnshop Website**](https://oxleypawnshop.com)  
-A responsive, SEO-optimized pawnshop business website.  
+As a solo developer intern, I designed and launched a modern website for a Singapore-based pawnshop. The site features an interactive homepage with smooth animations, a contact form integrated with company email and automated replies, real-time gold price updates with fallback data sources, and fully configured company email accounts for all team members.  
 
 **Goldjewel Website & CMS**  
 Website and content management system for an internal jewelry business workflow.  
