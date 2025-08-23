@@ -19,7 +19,7 @@ An AI-powered, multilingual React Native app that integrates real-time Singapore
 An AI-powered mobile app that helps users detect, understand, and prevent online scams. It offers real-time URL analysis, educational content, scam analytics, and a community forum for sharing experiences and insights. 
 
 [**NoFap**](https://github.com/Path-yang/Hackomania_2025)  
-A modern web app designed to help users stay motivated on their NoFap journey through progress tracking, achievements, and community support. 
+A modern web app designed to help users stay motivated on their NoFap journey through progress tracking, achievements, and community support. It features donation-based support platform enabling micro-donations through the Open Payments API to assist individuals overcoming addiction.
 
 [**Ship Vessel Risk Detection Model**](https://github.com/Path-yang/Maritime-Hackathon-2025)  
 *🏆 Top 3 @Maritime Hackathon 2025*  
@@ -39,8 +39,8 @@ A cross-platform fitness app built with Flutter and Firebase, featuring real-tim
 [**Oxleypawnshop Website**](https://oxleypawnshop.com)  
 As a solo developer intern, I designed and launched a modern website for a Singapore-based pawnshop. The site features an interactive homepage with smooth animations, a contact form integrated with company email and automated replies, real-time gold price updates with fallback data sources, and fully configured company email accounts for all team members.  
 
-[**Goldjewel Website**](https://goldjewel.sg) & **CMS**  
-Website and content management system for an internal jewelry business workflow.  
+[**Goldjewel Website**](https://goldjewel.sg) & [**CMS**](https://cms.goldjewel.sg)  
+As a solo software engineer intern, I built and deployed a modern website for a jewelry business along with a custom content management system (CMS). The website features an dynamic homepage with fluid animations to showcase products elegantly, while the CMS provides an intuitive interface for the team to manage product listings with ease. The CMS includes built-in image cropping tools and supports instant, real-time updates to the website whenever new products are added or existing ones are modified, ensuring a seamless workflow between product management and customer-facing updates.
 
 ---
 
