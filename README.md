@@ -5,7 +5,7 @@ I’m a <b>Computer Engineering</b> student at <b>National University of Singapo
 </p>
 
 <p align="center">
-<a href="https://seanlsk.com"><img src="https://img.shields.io/badge/Website-seanlsk.com-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: seanlsk.com"></a>
+🌐 <a href="https://seanlsk.com">seanlsk.com</a>
 </p>
 
 Here are my public projects, from personal builds and hackathons to school work and client websites:
