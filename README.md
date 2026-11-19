@@ -4,6 +4,10 @@
 I’m a <b>Computer Engineering</b> student at <b>National University of Singapore (NUS)</b> who builds AI agents, retrieval systems, and the self-hosted infrastructure they run on.
 </p>
 
+<p align="center">
+<a href="https://seanlsk.com"><img src="https://img.shields.io/badge/Website-seanlsk.com-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: seanlsk.com"></a>
+</p>
+
 Here are my public projects, from personal builds and hackathons to school work and client websites:
 
 ---
@@ -83,4 +87,4 @@ As a solo software engineer, I built a jewellery website and a custom CMS, with 
 
 <h3>📫 Let’s Connect</h3>
 
-[![Website](https://img.shields.io/badge/Website-seanlsk.com-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seanlsk.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-su-kiat-sean-19211a33b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seanleesukiat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-su-kiat-sean-19211a33b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seanleesukiat@gmail.com)
